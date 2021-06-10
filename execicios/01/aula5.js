@@ -5,7 +5,7 @@ function addThree() {
   sum = sum + 3;
 }
 function addFive(){
-  sum = sum + 6;
+  sum = sum + 5;
 }
 // Only change code below this line
 
